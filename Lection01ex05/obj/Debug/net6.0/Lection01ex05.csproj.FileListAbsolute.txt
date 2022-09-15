@@ -1,0 +1,15 @@
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\bin\Debug\net6.0\Lection01ex05.exe
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\bin\Debug\net6.0\Lection01ex05.deps.json
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\bin\Debug\net6.0\Lection01ex05.runtimeconfig.json
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\bin\Debug\net6.0\Lection01ex05.dll
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\bin\Debug\net6.0\Lection01ex05.pdb
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\obj\Debug\net6.0\Lection01ex05.csproj.AssemblyReference.cache
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\obj\Debug\net6.0\Lection01ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\obj\Debug\net6.0\Lection01ex05.AssemblyInfoInputs.cache
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\obj\Debug\net6.0\Lection01ex05.AssemblyInfo.cs
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\obj\Debug\net6.0\Lection01ex05.csproj.CoreCompileInputs.cache
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\obj\Debug\net6.0\Lection01ex05.dll
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\obj\Debug\net6.0\refint\Lection01ex05.dll
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\obj\Debug\net6.0\Lection01ex05.pdb
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\obj\Debug\net6.0\Lection01ex05.genruntimeconfig.cache
+C:\Users\irina\OneDrive\Документы\Education\Lection01ex05\obj\Debug\net6.0\ref\Lection01ex05.dll
