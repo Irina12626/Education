@@ -17,12 +17,22 @@ while (index < count)
     index += 1;
 }
 index = 0;
+bool element = false;
 while (index < count)
 {
     if (array[index] = find)
     {
-        Console.WriteLine("\nТакой элемент есть");
+        element = true;
     }
     index += 1;
+}
+if (element)
+{
+    Console.WriteLine("\nТакой элемент есть");
+}
+else
+{
+
+    Console.WriteLine("\nТакого элемента нет");
 }
 Console.WriteLine("\nEND");
